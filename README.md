@@ -9,12 +9,15 @@
 # Примеры работы main
 
 Вход:
+
 ![image](https://github.com/Blaffy9090/face_hackatonishe/assets/119712032/0f0a5c67-9c9c-46b3-8bb4-cfdce31b6de8)
 
 Интерфейс(тема зависит от системной темы):
+
 ![image](https://github.com/Blaffy9090/face_hackatonishe/assets/119712032/e176611a-5205-42ca-b39f-138eab61917a)
 
 Редактор профиля:
+
 ![image](https://github.com/Blaffy9090/face_hackatonishe/assets/119712032/07cbf7aa-46ff-4031-afe6-f9e81b1a20a4)
 
 # Пример запроса, передаваемого в handler библиотеки
