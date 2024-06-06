@@ -16,3 +16,26 @@
 
 Редактор профиля:
 ![image](https://github.com/Blaffy9090/face_hackatonishe/assets/119712032/07cbf7aa-46ff-4031-afe6-f9e81b1a20a4)
+
+# Пример запроса, передаваемого в handler библиотеки
+
+ tmp = {
+     "auth":None,
+     "type":"registration",
+     "data":{
+         "email": "user1@example.com",
+         "password": "securePassword123",
+         "name": "John Doe"
+     }
+ }   
+
+ tmp = {
+     "auth":True,
+     "type":"edit",
+     "data":{
+         "email": "user1@example.com",
+         "password": "securePassword123",
+         "name": "John Doe",
+         "photo": "C:\Users\AEZAKMI\Downloads\Test.png"
+     }
+ }
