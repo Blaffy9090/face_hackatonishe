@@ -20,6 +20,11 @@
 
 ![image](https://github.com/Blaffy9090/face_hackatonishe/assets/119712032/07cbf7aa-46ff-4031-afe6-f9e81b1a20a4)
 
+
+# Пример кода, отправляемого на почту при неудачном входе с камеры:
+
+![image](https://github.com/Blaffy9090/face_hackatonishe/assets/119712032/a1bb2d39-4a23-444c-8a5e-5e91bbd5130d)
+
 # Пример запроса, передаваемого в handler библиотеки
 
  tmp = {
